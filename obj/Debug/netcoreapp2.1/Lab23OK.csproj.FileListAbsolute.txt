@@ -34,7 +34,7 @@ C:\Users\GC Student\Source\Repos\Lab23OK\Lab23OK\obj\Debug\netcoreapp2.1\Razor\V
 C:\Users\GC Student\Source\Repos\Lab23OK\Lab23OK\obj\Debug\netcoreapp2.1\Razor\Views\Login\Delete.g.cshtml.cs
 C:\Users\GC Student\Source\Repos\Lab23OK\Lab23OK\obj\Debug\netcoreapp2.1\Razor\Views\Login\Details.g.cshtml.cs
 C:\Users\GC Student\Source\Repos\Lab23OK\Lab23OK\obj\Debug\netcoreapp2.1\Razor\Views\Login\Edit.g.cshtml.cs
-C:\Users\GC Student\Source\Repos\Lab23OK\Lab23OK\obj\Debug\netcoreapp2.1\Razor\Views\Login\Index.g.cshtml.cs
 C:\Users\GC Student\Source\Repos\Lab23OK\Lab23OK\obj\Debug\netcoreapp2.1\Razor\Views\Product\Index.g.cshtml.cs
 C:\Users\GC Student\Source\Repos\Lab23OK\Lab23OK\obj\Debug\netcoreapp2.1\Razor\Views\Login\Register.g.cshtml.cs
 C:\Users\GC Student\Source\Repos\Lab23OK\Lab23OK\obj\Debug\netcoreapp2.1\Razor\Views\Product\Buy.g.cshtml.cs
+C:\Users\GC Student\Source\Repos\Lab23OK\Lab23OK\obj\Debug\netcoreapp2.1\Razor\Views\Login\Login.g.cshtml.cs
